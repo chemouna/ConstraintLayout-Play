@@ -19,7 +19,6 @@
       tools:layout_editor_absoluteY="30dp"
       android:id="@+id/imageView"
       android:scaleType="fitCenter"
-      android:contentDescription="user avatar"
       app:layout_constraintLeft_toLeftOf="@+id/activity_main"
       android:layout_marginLeft="16dp"
       android:layout_marginStart="16dp"
